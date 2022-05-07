@@ -1,0 +1,15 @@
+{
+  "name": "homework6-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashchenkov/AdvancedJS6-2.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
